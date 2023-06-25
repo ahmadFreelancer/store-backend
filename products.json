@@ -1,0 +1,190 @@
+[
+    {
+        "name": "wooden chair",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "chair",
+        "price": 25,
+        "company": "marcos",
+        "rating": 4,
+        "url": "https://images.pexels.com/photos/963486/pexels-photo-963486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "royal chair",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "chair",
+        "price": 187,
+        "company": "liddy",
+        "rating": 5,
+        "url": "https://images.pexels.com/photos/696407/pexels-photo-696407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "colored chairs",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "chair",
+        "price": 124,
+        "company": "caressa",
+        "rating": 4.5,
+        "url": "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "wooden lounger",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "chair",
+        "price": 161,
+        "company": "ikea",
+        "rating": 5,
+        "featured": true,
+        "url": "https://images.pexels.com/photos/106839/pexels-photo-106839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "ottoman chair",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "chair",
+        "price": 217,
+        "company": "liddy",
+        "rating": 5,
+        "featured": true,
+        "url": "https://images.pexels.com/photos/220749/pexels-photo-220749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "black mattress",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "bed",
+        "price": 119,
+        "company": "caressa",
+        "rating": 5,
+        "url": "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "couple bed",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "bed",
+        "price": 175,
+        "company": "ikea",
+        "rating": 4.7,
+        "url": "https://images.pexels.com/photos/763148/pexels-photo-763148.jpeg"
+    },
+    {
+        "name": "love birds bed",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "bed",
+        "price": 216,
+        "company": "marcos",
+        "rating": 5,
+        "featured": true,
+        "url": "https://images.pexels.com/photos/1543439/pexels-photo-1543439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "babies bed",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "bed",
+        "price": 148,
+        "company": "liddy",
+        "rating": 4.8,
+        "url": "https://images.pexels.com/photos/271655/pexels-photo-271655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "royal bed",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "bed",
+        "price": 187,
+        "company": "marcos",
+        "rating": 5,
+        "featured": true,
+        "url": "https://images.pexels.com/photos/4577673/pexels-photo-4577673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "lounge table",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "table",
+        "price": 47,
+        "company": "liddy",
+        "rating": 4.3,
+        "url": "https://images.pexels.com/photos/2450483/pexels-photo-2450483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "family dining table",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "table",
+        "price": 97,
+        "company": "marcos",
+        "rating": 4.6,
+        "url": "https://images.pexels.com/photos/2092058/pexels-photo-2092058.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "lobby table",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "table",
+        "price": 137,
+        "company": "ikea",
+        "rating": 5,
+        "featured": true,
+        "url": "https://images.pexels.com/photos/15888837/pexels-photo-15888837/free-photo-of-young-woman-sitting-in-a-lobby.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "room table",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "table",
+        "price": 163,
+        "company": "caressa",
+        "rating": 5,
+        "url": "https://images.pexels.com/photos/276651/pexels-photo-276651.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "laptop table",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "table",
+        "price": 97,
+        "company": "caressa",
+        "rating": 4.3,
+        "url": "https://images.pexels.com/photos/8960464/pexels-photo-8960464.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "royal white sofa",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "sofa",
+        "price": 387,
+        "company": "ikea",
+        "rating": 5,
+        "url": "https://images.pexels.com/photos/3757055/pexels-photo-3757055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "royal black sofa",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "sofa",
+        "price": 187,
+        "company": "marcos",
+        "rating": 5,
+        "featured": true,
+        "url": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "leather sofa",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "sofa",
+        "price": 187,
+        "company": "ikea",
+        "rating": 5,
+        "url": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "room sofa",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "sofa",
+        "price": 187,
+        "company": "caressa",
+        "rating": 5,
+        "featured": true,
+        "url": "https://images.pexels.com/photos/133919/pexels-photo-133919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "double sofa",
+        "description": "Best one in the world designed by me. It is very comfortable. Please just ignore dummy data :-)",
+        "category": "sofa",
+        "price": 187,
+        "company": "liddy",
+        "rating": 5,
+        "url": "https://images.pexels.com/photos/1918291/pexels-photo-1918291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+
+]
